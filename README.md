@@ -1,4 +1,4 @@
-Orangutan Analytics
+🦧 Orangutan Analytics
 =========================
 
 [orangutananalytics.com](https://orangutananalytics.com)
